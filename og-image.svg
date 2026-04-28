@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#282a36"/>
+
+  <!-- dot grid -->
+  <defs>
+    <pattern id="grid" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#50fa7b" opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+
+  <!-- left accent bar -->
+  <rect x="0" y="0" width="6" height="630" fill="#50fa7b"/>
+
+  <!-- surface panel -->
+  <rect x="72" y="80" width="1056" height="470" fill="#383a4a" rx="0"/>
+  <rect x="72" y="80" width="1056" height="470" fill="none" stroke="#44475a" stroke-width="1"/>
+
+  <!-- terminal bar -->
+  <rect x="72" y="80" width="1056" height="42" fill="#44475a"/>
+  <rect x="92" y="97" width="10" height="10" fill="#ff5f57"/>
+  <rect x="110" y="97" width="10" height="10" fill="#febc2e"/>
+  <rect x="128" y="97" width="10" height="10" fill="#28c840"/>
+  <text x="1108" y="108" font-family="monospace" font-size="14" fill="#6272a4" text-anchor="end">bash — jakub@stawowy.eu</text>
+
+  <!-- prompt line -->
+  <text x="104" y="172" font-family="monospace" font-size="18" fill="#50fa7b">jakub@stawowy.eu</text>
+  <text x="310" y="172" font-family="monospace" font-size="18" fill="#f8f8f2">:</text>
+  <text x="320" y="172" font-family="monospace" font-size="18" fill="#8be9fd">~</text>
+  <text x="337" y="172" font-family="monospace" font-size="18" fill="#f8f8f2">$ whoami</text>
+
+  <!-- output -->
+  <text x="104" y="210" font-family="monospace" font-size="16" fill="#6272a4">&gt; Jakub Stawowy</text>
+  <text x="104" y="234" font-family="monospace" font-size="16" fill="#6272a4">&gt; Software Engineer</text>
+  <text x="104" y="258" font-family="monospace" font-size="16" fill="#6272a4">&gt; Poznań, Poland / Remote</text>
+
+  <!-- divider -->
+  <rect x="104" y="290" width="80" height="2" fill="#50fa7b"/>
+
+  <!-- main headline -->
+  <text x="104" y="360" font-family="monospace" font-size="52" font-weight="bold" fill="#f8f8f2">Python / Backend</text>
+  <text x="104" y="424" font-family="monospace" font-size="52" font-weight="bold" fill="#50fa7b">Software Engineer</text>
+
+  <!-- tagline -->
+  <text x="104" y="482" font-family="monospace" font-size="22" fill="#6272a4">Scalable APIs · Distributed Systems · SaaS · Cloud-native</text>
+
+  <!-- url -->
+  <text x="1108" y="510" font-family="monospace" font-size="18" fill="#44475a" text-anchor="end">stawowy.eu</text>
+</svg>

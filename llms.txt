@@ -1,0 +1,36 @@
+# Jakub Stawowy
+
+> Python / Backend Software Engineer based in Poznań, Poland. Available for remote work.
+
+Jakub Stawowy is a software engineer with commercial experience spanning from junior to senior level. His primary expertise is Python and backend engineering, with a focus on scalable systems, SaaS platforms, and cloud-native architecture. He started his career in PHP, then transitioned to Python, with occasional Node.js work along the way.
+
+He actively uses AI tools (Claude, Claude Code, GitHub Copilot, Codex) for rapid prototyping and development acceleration.
+
+Prefers working in startups and small teams where ownership is real and there is no corporate overhead.
+
+## Core Skills
+
+- Python, Django, Django REST Framework, FastAPI, Flask, Celery
+- PostgreSQL, MySQL, Redis, RabbitMQ
+- Docker, Kubernetes, AWS, CI/CD
+- JavaScript, TypeScript, Node.js
+- Selenium Grid, E2E Testing, Test Automation
+- AI-assisted development: Claude, Claude Code, GitHub Copilot, Codex
+
+## Experience Highlights
+
+- Scalable backend systems and REST APIs
+- SaaS platforms and multi-tenant architecture
+- Distributed systems and async processing
+- Test automation platforms
+- Cloud-native development
+- Code quality and technical mentoring
+
+## Location
+
+Poznań, Poland. Available remotely.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/jakub-stawowy/
+- Website: https://stawowy.eu/
